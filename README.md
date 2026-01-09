@@ -1,4 +1,5 @@
 Digital Scavenger Hunt 🕵️‍♂️
+
 Welcome to the Digital Scavenger Hunt. This is a entry-level forensic challenge designed to test your knowledge of file structures, hex data, and data recovery.
 
 The Scenario
