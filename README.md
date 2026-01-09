@@ -1,7 +1,5 @@
 🕵️‍♂️ Digital Scavenger Hunt 
-
-Forensics CTF Challenge
-======================
+==========================
 
 🧩 Overview
 -------------
